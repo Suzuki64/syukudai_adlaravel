@@ -1,0 +1,10 @@
+1.ORM
+2.Eloquent
+3.model
+4.create
+5.read
+6.update
+7.env
+8.マイグレーション
+9.シーディング
+
